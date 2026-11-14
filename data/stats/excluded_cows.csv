@@ -1,0 +1,16 @@
+file,Animal ID,Genetic Group,rows_dropped,reason
+physiological responses.xlsx,101,Local,15,cow ID not present in all three files
+physiological responses.xlsx,201,HF50,15,cow ID not present in all three files
+physiological responses.xlsx,301,HF62.5,15,cow ID not present in all three files
+physiological responses.xlsx,401,HF75,15,cow ID not present in all three files
+physiological responses.xlsx,501,HF87.5,15,cow ID not present in all three files
+"DMI, milk yield and composition.xlsx",111,Local,15,cow ID not present in all three files
+"DMI, milk yield and composition.xlsx",211,HF50,15,cow ID not present in all three files
+"DMI, milk yield and composition.xlsx",311,HF62.5,15,cow ID not present in all three files
+"DMI, milk yield and composition.xlsx",411,HF75,15,cow ID not present in all three files
+"DMI, milk yield and composition.xlsx",511,HF87.5,15,cow ID not present in all three files
+Blood metabolites.xlsx,111,Local,15,cow ID not present in all three files
+Blood metabolites.xlsx,211,HF50,15,cow ID not present in all three files
+Blood metabolites.xlsx,311,HF62.5,15,cow ID not present in all three files
+Blood metabolites.xlsx,411,HF75,15,cow ID not present in all three files
+Blood metabolites.xlsx,511,HF87.5,15,cow ID not present in all three files
